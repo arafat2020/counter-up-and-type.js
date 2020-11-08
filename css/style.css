@@ -1,0 +1,21 @@
+.btn{
+    display: none;
+    margin: 0 auto;
+    font-size: 30px;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.left{
+    width: 45%;
+}
+h1{
+    text-align: center;
+}
+.counter{
+    text-align: center;
+    font-size: 100px;
+}
